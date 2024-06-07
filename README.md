@@ -1,2 +1,2 @@
-# atograd
+# mingrad
 a lightweight autograd engine.
