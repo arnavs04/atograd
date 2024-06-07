@@ -1,0 +1,33 @@
+TY  - JOUR
+T1  - Automatic differentiation of algorithms
+AU  - Bartholomew-Biggs, Michael
+AU  - Brown, Steven
+AU  - Christianson, Bruce
+AU  - Dixon, Laurence
+JO  - Journal of Computational and Applied Mathematics
+VL  - 124
+IS  - 1
+SP  - 171
+EP  - 190
+PY  - 2000
+DA  - 2000/12/01/
+T2  - Numerical Analysis 2000. Vol. IV: Optimization and Nonlinear Equations
+SN  - 0377-0427
+DO  - https://doi.org/10.1016/S0377-0427(00)00422-2
+UR  - https://www.sciencedirect.com/science/article/pii/S0377042700004222
+KW  - Adjoint programming
+KW  - Algorithm
+KW  - Automatic differentiation
+KW  - Checkpoints
+KW  - Error analysis
+KW  - Function approximation
+KW  - Implicit equations
+KW  - Interval analysis
+KW  - Nonlinear optimization
+KW  - Optimal control
+KW  - Parallelism
+KW  - Penalty functions
+KW  - Program transformation
+KW  - Variable momentum
+AB  - We introduce the basic notions of automatic differentiation, describe some extensions which are of interest in the context of nonlinear optimization and give some illustrative examples.
+ER  - 

@@ -1,0 +1,11 @@
+Michael Bartholomew-Biggs, Steven Brown, Bruce Christianson, Laurence Dixon,
+Automatic differentiation of algorithms,
+Journal of Computational and Applied Mathematics,
+Volume 124, Issues 1–2,
+2000,
+Pages 171-190,
+ISSN 0377-0427,
+https://doi.org/10.1016/S0377-0427(00)00422-2.
+(https://www.sciencedirect.com/science/article/pii/S0377042700004222)
+Abstract: We introduce the basic notions of automatic differentiation, describe some extensions which are of interest in the context of nonlinear optimization and give some illustrative examples.
+Keywords: Adjoint programming; Algorithm; Automatic differentiation; Checkpoints; Error analysis; Function approximation; Implicit equations; Interval analysis; Nonlinear optimization; Optimal control; Parallelism; Penalty functions; Program transformation; Variable momentum
