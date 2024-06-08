@@ -87,7 +87,8 @@ class Variable:
         return out
 
     def tanh(self):
-        out = Variable(math.tanh(self.data), (self,), 'tanh')
+        exp_2x = math.exp(2 * self.data)
+        out = Variable((exp_2x - 1) / (exp_2x + 1), (self,), 'tanh')
 
         def _backward():
             self.grad += (1 - out.data**2) * out.grad
