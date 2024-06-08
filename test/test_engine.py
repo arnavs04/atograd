@@ -1,5 +1,5 @@
 import torch
-from micrograd.engine import Variable
+from mingrad.engine import Variable
 
 def test_sanity_check():
     """
