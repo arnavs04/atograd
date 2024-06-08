@@ -1,4 +1,3 @@
-
 class Variable:
     """
     Represents a variable that stores a single scalar value and its gradient.
